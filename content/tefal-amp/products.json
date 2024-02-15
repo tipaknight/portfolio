@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Беспроводной пылесос Tefal X-Force Flex 8.60",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique porro molestias maiores quam consequatur nobis incidunt laudantium voluptatum autem, corrupti eum! Ducimus facere vel assumenda labore nostrum corporis unde!."
+    },
+    {
+      "name": "Гладильная система Tefal IXEO",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, facilis! Sapiente beatae corrupti quis velit. Iste facilis quaerat assumenda, rem temporibus minima adipisci iure doloremque eum, possimus excepturi. Eius, illo."
+    },
+    {
+      "name": "Набор посуды Tefal Jamie Oliver 6 предметов",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, facilis! Sapiente beatae corrupti quis velit. Iste facilis quaerat assumenda, rem temporibus minima adipisci iure doloremque eum, possimus excepturi. Eius, illo."
+    },
+    {
+      "name": "Робот-пылесос Tefal X-plorer Serie 50 ",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perspiciatis earum, debitis aut nisi provident facilis sapiente molestias iusto hic voluptatibus illo! Officia, deleniti voluptatum veritatis explicabo eaque obcaecati illum!"
+    },
+    {
+      "name": "Сковорода Tefal",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perspiciatis earum, debitis aut nisi provident facilis sapiente molestias iusto hic voluptatibus illo! Officia, deleniti voluptatum veritatis explicabo eaque obcaecati illum!"
+    },
+    {
+      "name": "Умный электрогриль Tefal Optigrill Elite XL",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perspiciatis earum, debitis aut nisi provident facilis sapiente molestias iusto hic voluptatibus illo! Officia, deleniti voluptatum veritatis explicabo eaque obcaecati illum!"
+    }
+  ]
+}
